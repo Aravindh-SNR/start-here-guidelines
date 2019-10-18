@@ -1,5 +1,9 @@
 # Contributors
 
+-[@anilchoudhary](https://github.com/anilchoudhary)
+
+- [@neon-flights](https://github.com/neon-flights)
+
 -[@h4rdik11](https://github.com/h4rdik11)
 
 -[@Anmol270900](https://github.com/Anmol270900)
@@ -4742,6 +4746,8 @@
 
 -[@ChadCuomo](https://github.com/chadcuomo)
 
+-[@RedSquirrrel](https://github.com/RedSquirrrel)
+
 -[@AnkushPatil](https://github.com/asprazz)
 
 -[@obucl](https://github.com/obucl)
@@ -4842,6 +4848,8 @@
 
 -[@bk987](https://github.com/bk987/)
 
+-[@kevin7391s](https://github.com/kevin7391s/)
+
 -[@lucaspedrazzi](https://github.com/lucaspedrazzi)
 
 -[@jmejiamu](https://github.com/jmejiamu/)
@@ -4888,8 +4896,64 @@
 
 -[@salogo](https://github.com/salogo/)
 
+-[@princeo1](https://github.com/princeo1/)
+
 -[@mariheck](https://github.com/mariheck)
 
 -[@princeo1](https://github.com/princeo1/)
 
 -[@icamp](https://github.com/icamp/)
+
+-[@Aravindh-SNR](https://github.com/Aravindh-SNR)
+
+-[@freedomField](https://github.com/freedomField)
+
+-[@khushbooJangle](https://github.com/khushbooJangle/)
+
+-[@afandyng](https://github.com/afandyng)
+
+-[@DimaKonoval](https://github.com/DimaKonoval)
+
+-[@furki911](https://github.com/furki911)
+
+-[@Natalina13](https://github.com/Natalina13)
+
+-[@gibas79](https://github.com/gibas79/)
+
+-[@hungdzai](https://github.com/hungdzai/))
+
+-[@hungdzai](https://github.com/hungdzai/))
+
+-[@huynguyen120390](https://github.com/huynguyen120390))
+
+-[@asifurrehman](https://github.com/asifurrehman))
+
+-[@kialala](https://https://github.com/kialala/))
+
+-[@Prashant2108](https://github.com/Prashant2108)
+
+-[@soulzidda](https://github.com/soulzidda)
+
+-[@Josef37](https://github.com/Josef37)
+
+-[@atif-dev](https://github.com/atif-dev)
+
+-[@cha1690] (https://github.com/cha1690)
+
+-[@tusharhanda](https://github.com/tusharhanda/)
+
+-[@hellohampus](https://github.com/hellohampus/)
+
+-[@priyamvada-05](https://github.com/priyamvada-05)
+
+-[@mchengye93](https://github.com/mchengye93/)
+
+-[@mikkel250](https://github.com/mikkel250/)
+
+-[@leelacanlale](https://github.com/leelacanlale/)
+
+-[@Andronikus](https://github.com/Andronikus)
+
+-[@yashShelatkar](https://github.com/yashShelatkar)
+
+-[@antinomezco](https://github.com/antinomezco)
